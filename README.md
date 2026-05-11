@@ -1,5 +1,5 @@
 # aula-15-lista
-# Exercícios de Lógica com Python 🐍
+# Exercícios de Lógica com Python 
 
 Este repositório contém uma série de exercícios práticos desenvolvidos para exercitar conceitos fundamentais de programação em Python, como manipulação de listas, estruturas de repetição (`while`, `for`), condicionais e conversão de dados.
 
